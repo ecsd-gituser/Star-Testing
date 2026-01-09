@@ -1,0 +1,21 @@
+{
+  "name": "Renaissance",
+  "short_name": "Renaissance",
+  "description": "ECSD Renaissance Secure Kiosk Launcher",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "assets/renaissance.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/renaissance.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
